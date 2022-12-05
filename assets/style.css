@@ -289,7 +289,7 @@ h3{
   display: flex;
   background-color: #3d3d3d;
   height: 648px;
-  width: 100%;
+  width: 1920px;
 }
 .vids > div > img{
   position: absolute;
@@ -315,6 +315,10 @@ h3{
 .vids .cor{
   position: absolute;
   margin: 387px 20px 10px 1500px;
+}
+.vids .but{
+  position: absolute;
+  margin: 440px 20px 10px 444px;
 }
 .pb1 {
   background-color: #F5F5F5;
@@ -360,17 +364,100 @@ h3{
   margin-left: -120px;
   margin-top: 350px;
 }
+.pb > .p1 > div > a > img{
+  position:absolute;
+  margin-top: -380px;
+  margin-left: 165px;
+}
 .pb > .p1 > div > p{
   color: #ffffff;
   font-size: 24px;
   line-height: 34px;
 }
-.pb2 > .p2 > div > a > img{
-  position:absolute;
-  color: #FE8C12;
+footer{
+  max-width: 1920px;
+  height: 430px;
+  padding: 1rem;
+}
+.fb{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  margin-left: 19.5%;
+  margin-right: 19.5%;
+  margin-bottom: 5rem;
+  background-color: #F5F5F5;
+}
+.logof{
+  font-family: 'Roboto';
   font-size: 14px;
-  margin-left: -120px;
-  margin-top: 350px;
+  line-height: 24px;
+  text-decoration: none;
+  color: #000000;
+}
+.pl > div{
+  font-family: 'Open Sans';
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 30px;
+}
+.pl > div > div > div > a {
+  font-family: 'Roboto';
+  font-size: 14px;
+  line-height: 45px;
+  text-decoration: none;
+  color: #000000;
+  text-transform: uppercase;
+}
+.rp > div{
+  font-family: 'Open Sans';
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 24px;
+  text-transform: uppercase;
+
+}
+.rp > div > div{
+  font-family: 'Roboto';
+  font-size: 14px;
+  text-decoration: none;
+  color: #000000;
+  text-transform: uppercase;
+}
+.inf > div{
+  
+  font-family: 'Open Sans';
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 24px;
+}
+.inf > div > div > p{
+  align-items: center;
+  font-family: 'Roboto';
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration: none;
+  color: #000000;
+}
+.ppb{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1170px;
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 19.5%;
+}
+.ppb > div > ul{
+  display: flex;
+  margin-left: 550px;
+}
+.ppb > div > ul > li > a{
+  text-decoration: none;
+  margin: 0.5rem;
+  color: #000000;
 }
 .screen-reader-text {
   border: 0;
