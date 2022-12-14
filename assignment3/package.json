@@ -1,0 +1,23 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "Jquery plugin",
+  "main": "form-v-jp-min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faizmul/tugas.git#main"
+  },
+  "keywords": [
+    "Jquery",
+    "plugin"
+  ],
+  "author": "Faizal M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faizmul/tugas/issues"
+  },
+  "homepage": "https://github.com/Faizmul/tugas/tree/main#readme"
+}
