@@ -8,5 +8,5 @@ npm install jquery-match-height
 
 Usage
 $(function() {
-	$('.item').matchHeight(options);
+	$('.item').validate(options);
 });
